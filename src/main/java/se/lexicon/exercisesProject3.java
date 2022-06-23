@@ -10,8 +10,8 @@ Expected result:
 public class exercisesProject3 {
     public void numbers(){
 
-        int sum1 = 45, sum2 = 11;
-        System.out.println("45 + 11 = " + (sum1 + sum2));
+        int number1 = 45, number2 = 11;
+        System.out.println("45 + 11 = " + (number1 + number2));
 
         int multiplication1 = 12, multiplication2 = 4;
         System.out.println("12 * 4 = " + (multiplication1 + multiplication2));
